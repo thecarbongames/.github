@@ -1,4 +1,4 @@
-# 🚗 The Carbon Games
+# The Carbon Games
 
 Welcome to the **The Carbon Games** GitHub Organization! This repository contains all the essential codebases for our eco-friendly carpooling application aimed at reducing carbon emissions.
 
